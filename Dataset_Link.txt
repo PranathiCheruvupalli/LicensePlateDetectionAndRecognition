@@ -1,0 +1,27 @@
+License Plate Detection and Recognition:
+
+Data set Link:
+https://drive.google.com/file/d/1e-xE5ItPNFzhXIOizrNGKuHp-lHnn-ww/view?usp=sharing
+
+
+Description About the Data Set:
+
+The dataset contains 1470 rows and 11 columns. Below is a description of the data:
+
+Columns Overview:
+id (object): Unique identifiers for each image (e.g., img_901_1).
+Columns 0–9 (int64): Numerical values, possibly indicating class labels or binary features (0/1).
+
+Data Insights:
+All columns have 1470 non-null values (no missing data).
+The id column has unique values for every row.
+
+Columns 0–9:
+Values range between 0 and 1.
+Mean and standard deviation indicate sparse data (most values are 0).
+
+Example Rows:
+id	0	1	2	3	4	5	6	7	8	9
+img_901_1	0	1	0	0	0	0	0	0	0	0
+img_901_2	0	0	0	0	0	0	1	0	0	0
+​

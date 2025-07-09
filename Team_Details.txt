@@ -1,0 +1,16 @@
+Batch - 34
+
+Deep Learning Project and Research Paper
+
+Title: License Plate Detection and Recognition
+
+Student Details:
+
+Student-1:
+Name: Mundrathi Vaishnavi
+Hall Ticket no: 2203A52166
+
+Student-2:
+Name: CH. Pranathi 
+Hall Ticket no: 2203A52242
+
